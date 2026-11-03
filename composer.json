@@ -1,0 +1,12 @@
+{
+  "name": "convertguru/x402-examples",
+  "description": "Executable x402 API file conversion examples (DOCX to PDF) for Convert.Guru",
+  "type": "project",
+  "require": {
+    "php": ">=8.1",
+    "ext-curl": "*",
+    "ext-gmp": "*",
+    "kornrunner/keccak": "^1.1",
+    "simplito/elliptic-php": "^1.0"
+  }
+}

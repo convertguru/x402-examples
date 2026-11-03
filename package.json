@@ -1,0 +1,13 @@
+{
+  "name": "convert-guru-x402-examples",
+  "version": "1.0.0",
+  "description": "Executable x402 API file conversion examples (DOCX to PDF) for Convert.Guru",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node convert-docx-to-pdf.mjs"
+  },
+  "dependencies": {
+    "viem": "^2.21.0"
+  }
+}
